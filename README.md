@@ -26,8 +26,9 @@ Essa prática se mostrou essencial para a criação de interfaces escaláveis e 
 
 O resultado final pode ser conferido tanto no próprio Figma quanto na página HTML/CSS desenvolvida. O link para acesso ao projeto no Figma é este:  
 [Clique aqui para acessar o Figma](https://www.figma.com/design/ivGD751Am6tWgkZAuWLzoG/Untitled?node-id=1-10&t=KD35xMGhq8eN4nCr-1)  
+[Clique aqui para acessar a página](https://pond-ux-1-es-02.vercel.app/)
 
-Já para visualizar a tela implementada, basta abrir o arquivo index.html no navegador, após garantir que todos os assets (imagens e SVGs) estejam corretamente inseridos na pasta assets.
+Já para visualizar a tela localmente, basta baixar o projeto e abrir o arquivo index.html no navegador, após garantir que todos os assets (imagens e SVGs) estejam corretamente inseridos na pasta assets.
 
 Abaixo você pode comparar o design original feito no Figma com a versão implementada em HTML/CSS:
 
